@@ -30,7 +30,7 @@ Puppeteer crawls shanshan university mystu, credit system information, and USES 
 
 `$ npm install`
 
-`$ node interface.js`
+`$ node interfacekoa.js`
 
 
 
