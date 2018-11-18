@@ -6,7 +6,7 @@
 
 **Description**
 
-Puppeteer crawls shanshan university mystu, credit system information, and USES express built API
+Puppeteer crawls shanshan university mystu, credit system information, and USES koa built API
 
 **Function**
 
@@ -38,7 +38,7 @@ Puppeteer crawls shanshan university mystu, credit system information, and USES 
 
 **描述**
 
-puppeteer爬虫爬取汕大mystu、学分制信息，并使用express搭建成api
+puppeteer爬虫爬取汕大mystu、学分制信息，并使用koa搭建成api
 
 **功能**
 
@@ -62,7 +62,7 @@ puppeteer爬虫爬取汕大mystu、学分制信息，并使用express搭建成ap
 
 `$ npm install`
 
-`$ node interface.js`
+`$ node interfacekoa.js`
 
 
 
